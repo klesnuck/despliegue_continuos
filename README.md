@@ -23,6 +23,7 @@ Sistema web integral para la administración operativa y financiera del taller m
 * **Backend:** Node.js (Express) / Next.js API Routes
 * **Base de Datos:** PostgreSQL / Supabase
 * **Despliegue & Cloud:** Vercel, AWS S3 (Almacenamiento de evidencias)
+* **Control de versiones:** Git y GitHub
 
 ---
 
